@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: default
 title: "Race Results: 8th February 2025"
 date: 2025-02-08 18:00:00 +0000
 categories: results
 ---
-Race Results: 8th February 2025
-
 [Qualifying positions](https://www.facebook.com/groups/585097998307070/permalink/3063730660443779/)
 
 [Formula 1 final](https://www.facebook.com/groups/585097998307070/permalink/3063731640443681/)  

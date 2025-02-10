@@ -2,7 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
+title: Peterborough Model Car Racing Club (PMCR)
 ---
 # What we race
 
@@ -27,7 +28,7 @@ Track setup from 11:15
 ## 2025 Calendar
 
 |Date|Links|
-|---|---|
+|:---|:---|
 |11th January 2025|[Results]({% post_url 2025-01-11-results %})|
 |25th January 2025|[Results]({% post_url 2025-01-25-results %})|
 |8th February 2025|[Results]({% post_url 2025-02-08-results %})|
