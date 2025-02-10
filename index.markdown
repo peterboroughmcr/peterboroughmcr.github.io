@@ -4,6 +4,7 @@
 
 layout: default
 title: Peterborough Model Car Racing Club (PMCR)
+description: Peterborough Model Car Racing Club (PMCR) is a radio control racing club based in Peterborough, UK.
 ---
 # What we race
 

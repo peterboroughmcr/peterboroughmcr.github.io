@@ -20,9 +20,9 @@
 
 title: Peterborough Model Car Racing Club
 #email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Peterborough Model Car Racing Club (PMCR) is a radio control racing club based in Peterborough, UK.
-  At Peterborough Model Car Racing Club (PMCR) we race radio control Truck, F1 and sometimes Le Mans on carpet
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Peterborough Model Car Racing Club (PMCR) is a radio control racing club based in Peterborough, UK.
+#  At Peterborough Model Car Racing Club (PMCR) we race radio control Truck, F1 and sometimes Le Mans on carpet
 #baseurl: "" # the subpath of your site, e.g. /blog
 domain: peterboroughmcr.github.io
 url: https://peterboroughmcr.github.io # the base hostname & protocol for your site, e.g. http://example.com
