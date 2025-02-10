@@ -17,7 +17,7 @@ Drivers entry fee is £5 per meeting
 # Where we race
 
 Millfield Community Association, 487 Lincoln Rd, Peterborough PE1 2PE  
-[what3words]([https://w3w.co/adopt.bound.owls)  
+[what3words](https://w3w.co/adopt.bound.owls)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5179.1164027868335!2d-0.25328482205503444!3d52.59014573103208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4877f11957cd9459%3A0x33c20b31246e9035!2sPeterborough%20model%20car%20racing!5e1!3m2!1sen!2suk!4v1739198126103!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
