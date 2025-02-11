@@ -18,7 +18,7 @@ Drivers entry fee is £5 per meeting
 
 {%- assign news_posts = site.categories.news | sort: 'date' | reverse -%}
 {%- for post in news_posts limit:10 -%}
-- [{% post.title %}]({% post.url %})
+  <a href="{{ post.url }}">{{ post.title }}</a><br>
 {%- endfor -%}
 
 # Where we race
