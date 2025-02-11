@@ -34,6 +34,7 @@ Millfield Community Association, 487 Lincoln Rd, Peterborough PE1 2PE
 
 [Please check-in via the PMCR Facebook Group](https://www.facebook.com/groups/585097998307070/)  
 Track setup from 11:15  
+Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 
 ## 2025 Calendar
 
