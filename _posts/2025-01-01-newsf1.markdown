@@ -1,0 +1,11 @@
+---
+layout: default
+title:  "News: 2025 2WD National Calendar"
+date:   2025-01-11 18:00:00 +0000
+categories: news
+---
+2025 2WD National Calendar. The championship will be contested over 5 outdoor rounds on tarmac, visiting many of the best outdoor tracks in the UK.
+
+![2025 2WD National Calendar](https://www.brca.org/images/BRCA%202WD%20Dates%202025.jpg "2025 2WD National Calendar")
+
+

@@ -14,6 +14,13 @@ Drivers entry fee is £5 per meeting
 £10 Annual Club membership  
 [Annual BRCA membership](https://www.brca.org/join)
 
+## News
+
+{%- assign news_posts = site.categories.news | sort: 'date' | reverse -%}
+{%- for post in news_posts limit:10 -%}
+- [{% post.title %}]({% post.url %})
+{%- endfor -%}
+
 # Where we race
 
 Millfield Community Association, 487 Lincoln Rd, Peterborough PE1 2PE  
