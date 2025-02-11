@@ -8,7 +8,7 @@ description: Peterborough Model Car Racing Club (PMCR) is a radio control racing
 ---
 # What we race
 
-At Peterborough Model Car Racing Club (PMCR) we race radio control Truck, F1 and sometimes Le Mans on carpet. Feel free to contact us via the [PMCR Facebook Group](https://www.facebook.com/groups/585097998307070/) for more information.
+At Peterborough Model Car Racing Club (PMCR) we race radio control [Truck]({% link racingclasses %}), [F1]({% link racingclasses %}) and sometimes [Le Mans]({% link racingclasses %}) on carpet. Feel free to contact us via the [PMCR Facebook Group](https://www.facebook.com/groups/585097998307070/) for more information.
 
 Drivers entry fee is £5 per meeting  
 £10 Annual Club membership  
