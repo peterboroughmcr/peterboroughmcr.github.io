@@ -7,8 +7,9 @@ description: At Peterborough Model Car Racing Club (PMCR) we race radio control 
 
 Tamiya Racing Truck ([TT01 type E Chassis](https://tamiya.com/english/products/product_info_ex.html?genre_item=e_0102))  
 Kit wheels/tyres (Inserts can be used)  
-Motors – Saturn 20t / Core 21t / kit supplied torque tuned 25t (brushed)  
+Motors – Saturn 20T / Core 21T / kit supplied torque tuned 25T (brushed)  
 19 tooth pinion
+2S Lipo
 
 Permitted hop ups:
 
@@ -20,6 +21,9 @@ Permitted hop ups:
 - Universal joints (not really necessary)
 
 # F1
+
+Motor 21.5T brushless
+2S Lipo
 
 ## Links
 
@@ -33,3 +37,4 @@ Hobbywing juststock 17.5 combo part number HW38020321
 Group C or F1 tyres  
 LMP style bodyshell  
 No reverse set on speedo
+2S Lipo
