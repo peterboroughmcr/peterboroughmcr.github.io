@@ -12,12 +12,12 @@ What is Markdown? Markdown is a lightweight markup language that you can use to 
 
 From [Mastering Jekyll, URLs and links in Jekyll](https://mademistakes.com/mastering-jekyll/how-to-link/)
 
-Link to a page, here is an example Truck link to content for a file `racingclasses.markdown`. Note the `.markdown` extension is included  
+Link to a page, here is an example Truck link to content for a file `racingclasses.markdown`. Note the `.markdown` extension is included.  
 ```
 [Truck]({% link racingclasses.markdown %})
 ```
 
-Linking posts, here is an example Results link to content for a file `_posts/2025-01-11-results.markdown`. Note the `.markdown` extension is **not** included  
+Linking to a post, here is an example Results link to content for a file `_posts/2025-01-11-results.markdown`. Note the `.markdown` extension is **not** included.  
 ```
 [Results]({% post_url 2025-01-11-results %})
 ```
