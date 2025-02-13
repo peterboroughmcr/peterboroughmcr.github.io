@@ -34,7 +34,8 @@ Millfield Community Association, 487 Lincoln Rd, Peterborough PE1 2PE
 
 [Please check-in via the PMCR Facebook Group](https://www.facebook.com/groups/585097998307070/)  
 Track setup from 11:15  
-Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
+Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals  
+[BRCA Race With Respect](https://www.brca.org/racer-hub/race-with-respect)
 
 ## 2025 Calendar
 
@@ -60,3 +61,7 @@ Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 |15th November 2025||
 |29th November 2025||
 |13th December 2025||
+
+# Links
+
+[Holbeach RC Model Car Club (HRCMCC), Holbeach](https://www.holbeachrcmodelcarclub.co.uk) [South Cambs Radio Controlled Car Club (SCRCCC), Papworth Everard](https://southcambsrc.co.uk/) [East Coast Nitro, Theddlethorpe](https://www.facebook.com/groups/376175025780259) [Herts Nitro Model Club (HNMC), Ware](https://www.hnmc.co.uk) [Trains4U, Peterborough](https://www.trains4u.com/c/469/Radio-Controlled) [Frosty Models, Skegness](https://frostymodels.com) [Redfin Models, Baldock](https://www.redfinmodels.com) [SC Models, Stevenage](https://www.scmodels.co.uk/) [Herts RC Models, Ware](https://www.hertsrcmodels.co.uk/)
