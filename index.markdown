@@ -10,7 +10,7 @@ description: Peterborough Model Car Racing Club (PMCR) is a radio control racing
 
 At Peterborough Model Car Racing Club (PMCR) we race radio control [Truck]({% link racingclasses.markdown %}), [F1]({% link racingclasses.markdown %}) and sometimes [Le Mans]({% link racingclasses.markdown %}) on carpet. Feel free to contact us via the [PMCR Facebook Group](https://www.facebook.com/groups/585097998307070/) for more information.
 
-Drivers entry fee is £5 per meeting  
+Drivers entry fee is £5 per meeting. For new drivers the first meeting is free  
 £10 Annual Club membership  
 [Annual BRCA membership](https://www.brca.org/join)
 
@@ -60,6 +60,17 @@ Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 |15th November 2025||
 |29th November 2025||
 |13th December 2025||
+
+# Other Events
+
+|Date|Links|
+|:---|:---|
+|10th/11th May 2025|[F1 Nationals: Round 1, Eastbourne]({% post_url 2025-01-01-newsf1 %})|
+|7th/8th June 2025|[F1 Nationals: Round 2, Aldershot]({% post_url 2025-01-01-newsf1 %})|
+|28th/29th June 2025|[F1 Nationals: Round 3, West London]({% post_url 2025-01-01-newsf1 %})|
+|26th July 2025|[HRCMCC MINI GP with Truck Trophy - The Return]({% post_url 2025-02-05-newsminigp %})|
+|2nd/3rd August 2025|[F1 Nationals: Round 4, Stafford]({% post_url 2025-01-01-newsf1 %})|
+|20th/21st September 2025|[F1 Nationals: Round 5, Cotswolds]({% post_url 2025-01-01-newsf1 %})|
 
 # Links
 
