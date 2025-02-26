@@ -10,8 +10,13 @@ description: Peterborough Model Car Racing Club (PMCR) is a radio control racing
 
 At Peterborough Model Car Racing Club (PMCR) we race radio control [Truck]({% link racingclasses.markdown %}), [F1]({% link racingclasses.markdown %}) and sometimes [Le Mans]({% link racingclasses.markdown %}) on carpet. Feel free to contact us via the [PMCR Facebook Group](https://www.facebook.com/groups/585097998307070/) for more information.
 
-Drivers entry fee is £5 per meeting for club members and £6 per meeting for non-members. For new drivers the first meeting is free. A selection of drinks and snacks are available to purchase and there is also a selection of shops in the local area.  
-£10 Annual Club membership  
+Driver entry fees: 
+
+- Club Members: £5 per meeting, £10 Annual Club membership
+- Non-Members: £6 per meeting
+- New Drivers: First meeting is free
+
+A selection of drinks and snacks are available to purchase. Various shops are located in the local area for your convenience.  
 [Annual BRCA membership](https://www.brca.org/join)
 
 ## News
