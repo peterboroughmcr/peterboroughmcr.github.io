@@ -16,9 +16,9 @@ categories: results
 # Results
 
 [Formula 1 Class: FTQ](#f1ftq)  
-[Formula 1 Class: A Leg 1](#f1aleg1), [Formula 1 Class: A Leg 2](#f1aleg2), [Formula 1 Class: B Leg 1](#f1bleg1), [Formula 1 Class: B Leg 2](#f1bleg2)  
+[Formula 1 Class: A. Final Leg 1](#f1aleg1), [Formula 1 Class: A. Final Leg 2](#f1aleg2), [Formula 1 Class: B. Final Leg 1](#f1bleg1), [Formula 1 Class: B. Final Leg 2](#f1bleg2)  
 [Truck 1/10 Class: FTQ](#truckftq)  
-[Truck 1/10 Class: A Leg 1](#truckaleg1), [Truck 1/10 Class: A Leg 2](#truckaleg2), [Truck 1/10 Class: B Leg 1](#truckbleg1), [Truck 1/10 Class: B Leg 2](#truckbleg2)  
+[Truck 1/10 Class: A. Final Leg 1](#truckaleg1), [Truck 1/10 Class: A. Final Leg 2](#truckaleg2), [Truck 1/10 Class: B. Final Leg 1](#truckbleg1), [Truck 1/10 Class: B. Final Leg 2](#truckbleg2)  
 
 {% include 2025-03-08-results-f1.html %}
 
