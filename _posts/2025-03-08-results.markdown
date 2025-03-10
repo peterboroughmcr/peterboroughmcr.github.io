@@ -4,6 +4,8 @@ title: "Race Results: 8th March 2025"
 date: 2025-03-08 18:00:00 +0000
 categories: results
 ---
+# Results, PMCR Facebook Group
+
 [Qualifying positions](https://www.facebook.com/groups/585097998307070/permalink/3090671871082991/)
 
 [Formula 1 A final](https://www.facebook.com/groups/585097998307070/permalink/3090673624416149/)  
@@ -11,8 +13,12 @@ categories: results
 [Tamiya TT01E Trucks A final](https://www.facebook.com/groups/585097998307070/permalink/3090673081082870/)  
 [Tamiya TT01E Trucks B final](https://www.facebook.com/groups/585097998307070/permalink/3090672401082938/)
 
-[Formula 1 Class](#f1)  
-[Truck 1/10 Class](#truck)
+# Results
+
+[Formula 1 Class: FTQ](#f1ftq)  
+[Formula 1 Class: A Leg 1](#f1aleg1), [Formula 1 Class: A Leg 2](#f1aleg2), [Formula 1 Class: B Leg 1](#f1bleg1), [Formula 1 Class: B Leg 2](#f1bleg2)  
+[Truck 1/10 Class: FTQ](#truckftq)  
+[Truck 1/10 Class: A Leg 1](#truckaleg1), [Truck 1/10 Class: A Leg 2](#truckaleg2), [Truck 1/10 Class: B Leg 1](#truckbleg1), [Truck 1/10 Class: B Leg 2](#truckbleg2)  
 
 {% include 2025-03-08-results-f1.html %}
 
