@@ -13,7 +13,7 @@ categories: results
 [Tamiya TT01E Trucks A final](https://www.facebook.com/groups/585097998307070/permalink/3090673081082870/)  
 [Tamiya TT01E Trucks B final](https://www.facebook.com/groups/585097998307070/permalink/3090672401082938/)
 
-{% include 2025-03-08-results-conent.markdown %}
+{% include 2025-03-08-results-content.markdown %}
 
 {% include 2025-03-08-results-heats.markdown %}
 
