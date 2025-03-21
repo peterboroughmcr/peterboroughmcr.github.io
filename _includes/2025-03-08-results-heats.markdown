@@ -1,32 +1,3 @@
-## Overall Qualifying Results {#heatrndsum}
-
-### Truck 1/10 Class FTQ
-
-| Pos | Name           | Result     | Score Round(s) | Avrg Lap | Best Lap | Club # |
-| --- | -------------- | ---------- | -------------- | -------- | -------- | ------ |
-| 1   | Aidan Mitchell | 24/ 312.64 | 3              | 13.03    | 12.83    | T66    |
-| 2   | Robert Myers   | 22/ 306.70 | 3              | 13.94    | 13.13    | T58    |
-| 3   | Roy Crowson    | 21/ 301.94 | 3              | 14.38    | 13.61    | 21     |
-| 4   | Neil Tatlow    | 21/ 304.69 | 2              | 14.51    | 13.72    | T76    |
-| 5   | Aimee Talbot   | 21/ 308.43 | 2              | 14.69    | 13.78    | T118   |
-| 6   | Jamie Robinson | 21/ 312.16 | 3              | 14.86    | 14.28    | 16     |
-| 7   | Gregg Brown    | 18/ 315.07 | 2              | 17.50    | 15.66    | T169   |
-| 8   | Adam Craggs    | 17/ 304.04 | 2              | 17.88    | 15.57    | 1      |
-
-### Formula 1 Class FTQ
-
-| Pos | Name            | Result     | Score Round(s) | Avrg Lap | Best Lap | Club # |
-| --- | --------------- | ---------- | -------------- | -------- | -------- | ------ |
-| 1   | Tom Penn        | 28/ 303.64 | 3              | 10.84    | 10.33    | 10     |
-| 2   | Jason Petch     | 27/ 305.97 | 1              | 11.33    | 10.88    | 39     |
-| 3   | Chris Whiteside | 27/ 306.62 | 3              | 11.36    | 10.94    | T132   |
-| 4   | Norman Britton  | 26/ 304.78 | 3              | 11.72    | 11.14    | T12    |
-| 5   | Andrew Robinson | 25/ 301.55 | 2              | 12.06    | 11.33    | 15     |
-| 6   | David Petch     | 25/ 303.16 | 3              | 12.13    | 11.50    | 38     |
-| 7   | Jeff Smith      | 25/ 310.87 | 3              | 12.43    | 11.72    | 40     |
-| 8   | Logan Tatlow    | 25/ 317.44 | 3              | 12.70    | 11.72    | T161   |
-| 9   | Nick Chilman    | 18/ 281.29 | 1              | 15.63    | 13.25    | T111   |
-
 ## Heat 1 (Truck 1/10) Round 1 Results {#h1r1}
 
 Race Duration 300s, Started 13:22 Finished 13:27
@@ -38,7 +9,7 @@ Race Duration 300s, Started 13:22 Finished 13:27
 | 3   | 2     | Gregg Brown  | 17/ 310.35 | 18.26    | 16.22 (8)  | T169   |
 | 4   | 4     | Adam Craggs  | DNS        |          | 0.00 (0)   | 1      |
 
-## Heat 1 (Truck 1/10) Round 1 Laps {#hlaph1r1}
+### Heat 1 (Truck 1/10) Round 1 Laps {#hlaph1r1}
 
 | Lap    | Truck 1 | Truck 2 | Truck 3 | Truck 4 |
 | ------ | ------- | ------- | ------- | ------- |
@@ -75,7 +46,7 @@ Race Duration 300s, Started 13:52 Finished 13:57
 | 3   | 2     | Gregg Brown  | 18/ 315.07 | 17.50    | 15.66 (5)  | T169   |
 | 4   | 4     | Adam Craggs  | 17/ 304.04 | 17.88    | 15.57 (6)  | 1      |
 
-## Heat 1 (Truck 1/10) Round 2 Laps {#hlaph1r2}
+### Heat 1 (Truck 1/10) Round 2 Laps {#hlaph1r2}
 
 | Lap    | Truck 1 | Truck 2 | Truck 3 | Truck 4 |
 | ------ | ------- | ------- | ------- | ------- |
@@ -113,7 +84,7 @@ Race Duration 300s, Started 14:23 Finished 14:28
 | 3   | 2     | Gregg Brown  | 17/ 310.16 | 18.24    | 15.93 (8)  | T169   |
 | 4   | 4     | Adam Craggs  | 15/ 301.82 | 20.12    | 15.03 (11) | 1      |
 
-## Heat 1 (Truck 1/10) Round 3 Laps {#hlaph1r3}
+### Heat 1 (Truck 1/10) Round 3 Laps {#hlaph1r3}
 
 | Lap    | Truck 1 | Truck 2 | Truck 3 | Truck 4 |
 | ------ | ------- | ------- | ------- | ------- |
@@ -151,7 +122,7 @@ Race Duration 300s, Started 13:29 Finished 13:35
 | 3   | 3     | Neil Tatlow    | 20/ 301.82 | 15.09    | 14.10 (20) | T76    |
 | 4   | 1     | Jamie Robinson | DNS        |          | 0.00 (0)   | 16     |
 
-## Heat 2 (Truck 1/10) Round 1 Laps {#hlaph2r1}
+### Heat 2 (Truck 1/10) Round 1 Laps {#hlaph2r1}
 
 | Lap    | Truck 1 | Truck 2 | Truck 3 | Truck 4 |
 | ------ | ------- | ------- | ------- | ------- |
@@ -190,7 +161,7 @@ Race Duration 300s, Started 13:59 Finished 14:04
 | 3   | 4     | Roy Crowson    | 21/ 307.45 | 14.64    | 13.62 (19) | 21     |
 | 4   | 1     | Jamie Robinson | 20/ 311.69 | 15.58    | 14.94 (9)  | 16     |
 
-## Heat 2 (Truck 1/10) Round 2 Laps {#hlaph2r2}
+### Heat 2 (Truck 1/10) Round 2 Laps {#hlaph2r2}
 
 | Lap    | Truck 1 | Truck 2 | Truck 3 | Truck 4 |
 | ------ | ------- | ------- | ------- | ------- |
@@ -229,7 +200,7 @@ Race Duration 300s, Started 14:30 Finished 14:35
 | 3   | 3     | Neil Tatlow    | 21/ 310.38 | 14.78    | 14.13 (14) | T76    |
 | 4   | 1     | Jamie Robinson | 21/ 312.16 | 14.86    | 14.28 (20) | 16     |
 
-## Heat 2 (Truck 1/10) Round 3 Laps {#hlaph2r3}
+### Heat 2 (Truck 1/10) Round 3 Laps {#hlaph2r3}
 
 | Lap    | Truck 1 | Truck 2 | Truck 3 | Truck 4 |
 | ------ | ------- | ------- | ------- | ------- |
@@ -270,7 +241,7 @@ Race Duration 300s, Started 13:37 Finished 13:42
 | 4   | 3   | Nick Chilman    | 18/ 281.29 | 15.63    | 13.25 (9)  | T111   |
 | 5   | 4   | Jeff Smith      | 2/ 25.46   | 12.73    | 0.00 (0)   | 40     |
 
-## Heat 3 (Formula 1) Round 1 Laps {#hlaph3r1}
+### Heat 3 (Formula 1) Round 1 Laps {#hlaph3r1}
 
 | Lap    | Car 1 | Car 2 | Car 3 | Car 4 | Car 5 |
 | ------ | ----- | ----- | ----- | ----- | ----- |
@@ -314,7 +285,7 @@ Race Duration 300s, Started 14:06 Finished 14:12
 | 4   | 1   | Logan Tatlow    | 23/ 307.87 | 13.39    | 11.90 (4)  | T161   |
 | 5   | 3   | Nick Chilman    | 5/ 305.36  | 61.07    | 13.72 (2)  | T111   |
 
-## Heat 3 (Formula 1) Round 2 Laps {#hlaph3r2}
+### Heat 3 (Formula 1) Round 2 Laps {#hlaph3r2}
 
 | Lap    | Car 1 | Car 2 | Car 3 | Car 4 | Car 5 |
 | ------ | ----- | ----- | ----- | ----- | ----- |
@@ -359,7 +330,7 @@ Race Duration 300s, Started 14:37 Finished 14:42
 | 4   | 1   | Logan Tatlow    | 25/ 317.44  | 12.70    | 11.72 (24) | T161   |
 | 5   | 3   | Nick Chilman    | 14/ 304.67* | 21.76    | 12.03* (8) | T111   |
 
-## Heat 3 (Formula 1) Round 3 Laps {#hlaph3r3}
+### Heat 3 (Formula 1) Round 3 Laps {#hlaph3r3}
 
 | Lap    | Car 1 | Car 2 | Car 3  | Car 4 | Car 5 |
 | ------ | ----- | ----- | ------ | ----- | ----- |
@@ -403,7 +374,7 @@ Race Duration 300s, Started 13:44 Finished 13:49
 | 3   | 1   | Andrew Robinson | 25/ 308.61 | 12.34    | 11.42 (12) | 15     |
 | 4   | 2   | David Petch     | DNS        |          | 0.00 (0)   | 38     |
 
-## Heat 4 (Formula 1) Round 1 Laps {#hlaph4r1}
+### Heat 4 (Formula 1) Round 1 Laps {#hlaph4r1}
 
 | Lap    | Car 1 | Car 2 | Car 3 | Car 4 |
 | ------ | ----- | ----- | ----- | ----- |
@@ -446,7 +417,7 @@ Race Duration 300s, Started 14:14 Finished 14:20
 | 3   | 4   | Norman Britton  | 24/ 307.52 | 12.81    | 11.18 (2) | T12    |
 | 4   | 3   | Jason Petch     | 20/ 220.82 | 11.04    | 10.65 (3) | 39     |
 
-## Heat 4 (Formula 1) Round 2 Laps {#hlaph4r2}
+### Heat 4 (Formula 1) Round 2 Laps {#hlaph4r2}
 
 | Lap    | Car 1 | Car 2 | Car 3 | Car 4 |
 | ------ | ----- | ----- | ----- | ----- |
@@ -487,7 +458,7 @@ Race Duration 300s, Started 14:45 Finished 14:50
 | 3   | 2   | David Petch     | 25/ 303.16 | 12.13    | 11.50 (11) | 38     |
 | 4   | 1   | Andrew Robinson | 25/ 303.97 | 12.16    | 10.99 (4)  | 15     |
 
-## Heat 4 (Formula 1) Round 3 Laps {#hlaph4r3}
+### Heat 4 (Formula 1) Round 3 Laps {#hlaph4r3}
 
 | Lap    | Car 1 | Car 2 | Car 3 | Car 4 |
 | ------ | ----- | ----- | ----- | ----- |
@@ -518,3 +489,32 @@ Race Duration 300s, Started 14:45 Finished 14:50
 | Lap 25 | 11.43 | 11.66 | 10.78 | 11.60 |
 | Lap 26 |       |       | 10.97 | 11.35 |
 | Lap 27 |       |       | 10.85 |       |
+
+## Overall Qualifying Results {#heatrndsum}
+
+### Truck 1/10 Class FTQ
+
+| Pos | Name           | Result     | Score Round(s) | Avrg Lap | Best Lap | Club # |
+| --- | -------------- | ---------- | -------------- | -------- | -------- | ------ |
+| 1   | Aidan Mitchell | 24/ 312.64 | 3              | 13.03    | 12.83    | T66    |
+| 2   | Robert Myers   | 22/ 306.70 | 3              | 13.94    | 13.13    | T58    |
+| 3   | Roy Crowson    | 21/ 301.94 | 3              | 14.38    | 13.61    | 21     |
+| 4   | Neil Tatlow    | 21/ 304.69 | 2              | 14.51    | 13.72    | T76    |
+| 5   | Aimee Talbot   | 21/ 308.43 | 2              | 14.69    | 13.78    | T118   |
+| 6   | Jamie Robinson | 21/ 312.16 | 3              | 14.86    | 14.28    | 16     |
+| 7   | Gregg Brown    | 18/ 315.07 | 2              | 17.50    | 15.66    | T169   |
+| 8   | Adam Craggs    | 17/ 304.04 | 2              | 17.88    | 15.57    | 1      |
+
+### Formula 1 Class FTQ
+
+| Pos | Name            | Result     | Score Round(s) | Avrg Lap | Best Lap | Club # |
+| --- | --------------- | ---------- | -------------- | -------- | -------- | ------ |
+| 1   | Tom Penn        | 28/ 303.64 | 3              | 10.84    | 10.33    | 10     |
+| 2   | Jason Petch     | 27/ 305.97 | 1              | 11.33    | 10.88    | 39     |
+| 3   | Chris Whiteside | 27/ 306.62 | 3              | 11.36    | 10.94    | T132   |
+| 4   | Norman Britton  | 26/ 304.78 | 3              | 11.72    | 11.14    | T12    |
+| 5   | Andrew Robinson | 25/ 301.55 | 2              | 12.06    | 11.33    | 15     |
+| 6   | David Petch     | 25/ 303.16 | 3              | 12.13    | 11.50    | 38     |
+| 7   | Jeff Smith      | 25/ 310.87 | 3              | 12.43    | 11.72    | 40     |
+| 8   | Logan Tatlow    | 25/ 317.44 | 3              | 12.70    | 11.72    | T161   |
+| 9   | Nick Chilman    | 18/ 281.29 | 1              | 15.63    | 13.25    | T111   |
