@@ -10,3 +10,9 @@ categories: results
 [Formula 1 B final](https://www.facebook.com/groups/585097998307070/permalink/3052602824889896/)  
 [Tamiya TT01E Truck A final ](https://www.facebook.com/groups/585097998307070/permalink/3052602394889939/)  
 [Tamiya TT01E Truck B final](https://www.facebook.com/groups/585097998307070/permalink/3052600814890097/)
+
+{% include 2025-01-25-results-content.markdown %}
+
+{% include 2025-01-25-results-heats.markdown %}
+
+{% include 2025-01-25-results-finals.markdown %}
