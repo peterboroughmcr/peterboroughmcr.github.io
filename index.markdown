@@ -74,6 +74,7 @@ Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 |7th/8th June 2025|[BRCA F1 Nationals: Round 2, Aldershot]({% post_url 2025-01-01-newsf1 %})|
 |28th/29th June 2025|[BRCA F1 Nationals: Round 3, West London]({% post_url 2025-01-01-newsf1 %})|
 |26th July 2025|[HRCMCC MINI GP with Truck Trophy - The Return, Holbeach]({% post_url 2025-02-05-newsminigp %})|
+|27th July 2025|[HRCMCC 1/12th Showdown, Holbeach]({% post_url 2025-04-18-news12showdown %})|
 |2nd/3rd August 2025|[BRCA F1 Nationals: Round 4, Stafford]({% post_url 2025-01-01-newsf1 %})|
 |20th/21st September 2025|[BRCA F1 Nationals: Round 5, Cotswolds]({% post_url 2025-01-01-newsf1 %})|
 
