@@ -9,7 +9,7 @@ categories: results
 [Qualifying positions](https://www.facebook.com/groups/585097998307070/permalink/3150745455075632/)
 
 [Formula 1 A final](https://www.facebook.com/groups/585097998307070/permalink/3150746138408897/)  
-[Tamiya TT01E Trucks A final](https://www.facebook.com/groups/585097998307070/permalink/3150747381742106/))
+[Tamiya TT01E Trucks A final](https://www.facebook.com/groups/585097998307070/permalink/3150747381742106/)
 
 {% include 2025-05-03-results-content.markdown %}
 
