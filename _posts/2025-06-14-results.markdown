@@ -4,3 +4,16 @@ title: "Race Results: 14th June 2025"
 date: 2025-06-14 18:00:00 +0000
 categories: results
 ---
+# Results, PMCR Facebook Group
+
+[Qualifying positions](https://www.facebook.com/groups/585097998307070/permalink/3198538426963001/)
+
+[Formula 1 A final](https://www.facebook.com/groups/585097998307070/permalink/3198540270296150/)  
+[Formula 1 B final](https://www.facebook.com/groups/585097998307070/permalink/3198539806962863/)  
+[Tamiya TT01E Trucks A final](https://www.facebook.com/groups/585097998307070/permalink/3198539353629575/)
+
+{% include 2025-06-14-results-content.markdown %}
+
+{% include 2025-06-14-results-heats.markdown %}
+
+{% include 2025-06-14-results-finals.markdown %}
