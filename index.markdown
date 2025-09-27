@@ -58,7 +58,7 @@ Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 |14th June 2025|[Results]({% post_url 2025-06-14-results %})|
 |SUMMER BREAK||
 |6th September 2025|[Results]({% post_url 2025-09-06-results %})|
-|20th September 2025||
+|20th September 2025|[Results]({% post_url 2025-09-20-results %})|
 |4th October 2025||
 |18th October 2025||
 |1st November 2025||
