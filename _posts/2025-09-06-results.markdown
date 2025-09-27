@@ -10,3 +10,9 @@ categories: results
 
 [Formula 1 A final](https://www.facebook.com/groups/585097998307070/permalink/3285502774933232/)  
 [Tamiya TT01E Trucks A final](https://www.facebook.com/groups/585097998307070/permalink/3285502338266609/)
+
+{% include 2025-09-06-results-content.markdown %}
+
+{% include 2025-09-06-results-heats.markdown %}
+
+{% include 2025-09-06-results-finals.markdown %}
