@@ -65,6 +65,23 @@ Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 |15th November 2025||
 |29th November 2025||
 |13th December 2025||
+|CHRISTMAS BREAK||
+|10th January 2026||
+|24th January 2026||
+|7th February 2026||
+|21st February 2026||
+|7th March 2026||
+|21st March 2026||
+|18th April 2026||
+|16th May 2026||
+|13th June 2026||
+|SUMMER BREAK||
+|19th September 2026||
+|3rd October 2026||
+|17th October 2026||
+|31st October 2026||
+|28th November 2026||
+|12th December 2026||
 
 # Other Events
 
