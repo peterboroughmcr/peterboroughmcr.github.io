@@ -87,12 +87,12 @@ Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 
 |Date|Links|
 |:---|:---|
-|11th/12th April 2026|Iconic Cup 2026: West London|
-|2nd/3rd May 2026|Iconic Cup 2026: Carlisle|
-|30th/31st May 2026|Iconic Cup 2026: Halifax|
-|June 2026|Iconic Cup 2026: To be confirmed|
-|15th/16th August 2026|Iconic Cup 2026: Colchester|
-|5th/6th September 2026|Iconic Cup 2026: Broxtowe|
+|11th/12th April 2026|[Iconic Cup 2026: R1 West London]({% post_url 2025-10-30-newsiconic %})|
+|2nd/3rd May 2026|[Iconic Cup 2026: R2 Carlisle]({% post_url 2025-10-30-newsiconic %})|
+|30th/31st May 2026|[Iconic Cup 2026: R3 Halifax]({% post_url 2025-10-30-newsiconic %})|
+|20th/21st June 2026|[Iconic Cup 2026: R4 Cotswold]({% post_url 2025-10-30-newsiconic %})|
+|15th/16th August 2026|[Iconic Cup 2026: R5 Colchester]({% post_url 2025-10-30-newsiconic %})|
+|5th/6th September 2026|[Iconic Cup 2026: R6 Broxtowe]({% post_url 2025-10-30-newsiconic %})|
 
 # Links
 
