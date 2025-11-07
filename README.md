@@ -21,3 +21,9 @@ Linking to a post, here is an example Results link to content for a file `_posts
 ```
 [Results]({% post_url 2025-01-11-results %})
 ```
+
+## How to force a Github Pages build?
+
+```
+git commit -m 'rebuild pages' --allow-empty
+```
