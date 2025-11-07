@@ -1,0 +1,9 @@
+---
+layout: default
+title:  "BRCA - Important Membership Update"
+date:   2025-11-05 18:00:00 +0000
+categories: news
+---
+British Radio Car Association (BRCA) has made an [important membership update announcement](https://www.brca.org/racer-hub/brca-articles/important-membership-update-action-required-before-1st-january-2026) for all members. All members must complete a password reset and renew their membership for the 2026 season before 1st January 2026.
+
+Thank you for your cooperation and continued support in keeping the BRCA’s systems safe, secure, and future-ready.
