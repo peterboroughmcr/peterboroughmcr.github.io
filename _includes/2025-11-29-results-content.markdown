@@ -4,4 +4,4 @@
 
 [Overall Qualifying Results](#heatrndsum)
 
-[B. Final (Truck 1/10) Leg 1 Results](#f1r1) \| [B. Final (Truck 1/10) Leg 2 Results](#f1r2) \| [A. Final (Truck 1/10) Leg 1 Results](#f2r1) \| [A. Final (Truck 1/10) Leg 2 Results](#f2r2) \| [B. Final (Formula 1) Leg 1 Results](#f3r1) \| [B. Final (Formula 1) Leg 2 Results](#f3r2)
+[B. Final (Truck 1/10) Leg 1 Results](#f1r1) \| [B. Final (Truck 1/10) Leg 2 Results](#f1r2) \| [A. Final (Truck 1/10) Leg 1 Results](#f2r1) \| [A. Final (Truck 1/10) Leg 2 Results](#f2r2) \| [B. Final (Formula 1) Leg 1 Results](#f3r1) \| [B. Final (Formula 1) Leg 2 Results](#f3r2) \| [A. Final (Formula 1) Leg 1 Results](#f4r1) \| [A. Final (Formula 1) Leg 2 Results](#f4r2)
