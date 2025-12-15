@@ -34,7 +34,7 @@ Forward and brake only. No reverse set on speedo
 ## Links
 
 [10th Electric Circuit Section of the BRCA](https://www.brca.org/racer-hub/sections/10th-electric-circuit)  
-[BRCA 10th Electric Circuit Nationals Facebook Group](https://www.facebook.com/groups/1238764840244353)
+[BRCA 10th Electric Circuit Nationals Facebook Group](https://www.facebook.com/groups/1238764840244353)  
 [F1 10th Circuit UK](https://www.facebook.com/groups/1639698689648473)
 
 # Le Mans
