@@ -16,4 +16,4 @@ categories: results
 
 {% include 2025-12-13-results-heats.markdown %}
 
-{% include 2025-12-12-results-finals.markdown %}
+{% include 2025-12-13-results-finals.markdown %}
