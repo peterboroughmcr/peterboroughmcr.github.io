@@ -9,7 +9,8 @@ Tamiya Racing Truck ([TT01 type E Chassis](https://tamiya.com/english/products/p
 Kit wheels/tyres (Inserts can be used)  
 Motors – Saturn 20T / Core 21T / kit supplied torque tuned 25T (brushed)  
 19 tooth pinion  
-2S Lipo
+2S Lipo  
+Forward and brake only. No reverse set on speedo
 
 Permitted hop ups:
 
@@ -20,15 +21,21 @@ Permitted hop ups:
 - Adjustable turnbuckles (steering only)
 - Universal joints (not really necessary)
 
+## Links
+
+[Frosty Models Tamiya TT01E Euro Truck Tuning](https://frostymodels.com/pages/tt01e-euro-truck-tuning-and-rules)
+
 # F1
 
 Motor 21.5T brushless  
 2S Lipo
+Forward and brake only. No reverse set on speedo
 
 ## Links
 
 [10th Electric Circuit Section of the BRCA](https://www.brca.org/racer-hub/sections/10th-electric-circuit)  
 [BRCA 10th Electric Circuit Nationals Facebook Group](https://www.facebook.com/groups/1238764840244353)
+[F1 10th Circuit UK](https://www.facebook.com/groups/1639698689648473)
 
 # Le Mans
 
@@ -36,5 +43,5 @@ Tamiya group C or Tamiya F1 chassis
 Hobbywing juststock 17.5 combo part number HW38020321  
 Group C or F1 tyres  
 LMP style bodyshell  
-No reverse set on speedo  
-2S Lipo
+2S Lipo  
+Forward and brake only. No reverse set on speedo  
