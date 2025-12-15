@@ -98,7 +98,7 @@ Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 |2nd August 2026|[BRCA 2026 10EC 2 Wheel Drive National Championship: West London]({% post_url 2025-12-07-newsbrca %})|
 |15th/16th August 2026|[Iconic Cup 2026: R5 Colchester]({% post_url 2025-10-30-newsiconic %})|
 |5th/6th September 2026|[Iconic Cup 2026: R6 Broxtowe]({% post_url 2025-10-30-newsiconic %})|
-|6th September 2026|BRCA 2026 10EC 2 Wheel Drive National Championship: Adur]({% post_url 2025-12-07-newsbrca %})|
+|6th September 2026|[BRCA 2026 10EC 2 Wheel Drive National Championship: Adur]({% post_url 2025-12-07-newsbrca %})|
 
 # Links
 

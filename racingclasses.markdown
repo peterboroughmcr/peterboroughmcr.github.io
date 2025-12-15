@@ -28,7 +28,7 @@ Permitted hop ups:
 # F1
 
 Motor 21.5T brushless  
-2S Lipo
+2S Lipo  
 Forward and brake only. No reverse set on speedo
 
 ## Links
