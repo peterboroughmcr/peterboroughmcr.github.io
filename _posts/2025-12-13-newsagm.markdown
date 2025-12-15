@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Millfield Community Association Meeting"
-date:   2026-01-12 18:00:00 +0000
+date:   2025-12-13 18:00:00 +0000
 categories: news
 ---
 Join the Millfield Community Association Annual General Meeting to discuss important updates and future plans. Your participation is vital and we encourage all members of PMCR to attend. Millfield Community Association provides a space for the whole community including Peterborough Model Car Racing Club (PMCR).
