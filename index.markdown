@@ -42,31 +42,11 @@ Track setup from 11:15 on race day see calendar below for race dates
 Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals  
 [BRCA Race With Respect](https://www.brca.org/racer-hub/race-with-respect)
 
-## 2025 Calendar
+## 2026 Calendar
 
 |Date|Links|
 |:---|:---|
-|11th January 2025|[Results]({% post_url 2025-01-11-results %})|
-|25th January 2025|[Results]({% post_url 2025-01-25-results %})|
-|8th February 2025|[Results]({% post_url 2025-02-08-results %})|
-|22nd February 2025|[Results]({% post_url 2025-02-22-results %})|
-|8th March 2025|[Results]({% post_url 2025-03-08-results %})|
-|22nd March 2025|[Results]({% post_url 2025-03-22-results %})|
-|26th April 2025|[Results]({% post_url 2025-04-26-results %})|
-|3rd May 2025|[Results]({% post_url 2025-05-03-results %})|
-|17th May 2025|[Results]({% post_url 2025-05-17-results %})|
-|14th June 2025|[Results]({% post_url 2025-06-14-results %})|
-|SUMMER BREAK||
-|6th September 2025|[Results]({% post_url 2025-09-06-results %})|
-|20th September 2025|[Results]({% post_url 2025-09-20-results %})|
-|4th October 2025|[Results]({% post_url 2025-10-04-results %})|
-|18th October 2025|[Results]({% post_url 2025-10-18-results %})|
-|1st November 2025|Race cancelled|
-|15th November 2025|[Results]({% post_url 2025-11-15-results %})|
-|29th November 2025|[Results]({% post_url 2025-11-29-results %})|
-|13th December 2025|[Results]({% post_url 2025-12-13-results %})|
-|CHRISTMAS BREAK||
-|10th January 2026||
+|10th January 2026|[Results]({% post_url 2026-01-10-results %})|
 |24th January 2026||
 |7th February 2026||
 |21st February 2026||
@@ -82,6 +62,9 @@ Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 |31st October 2026||
 |28th November 2026||
 |12th December 2026||
+|CHRISTMAS BREAK||
+
+[2025 Calendar]({% link calendar2025.markdown %})
 
 # Other Events
 

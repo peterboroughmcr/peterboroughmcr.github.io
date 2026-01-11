@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Race Results: 10th January 2026"
+date: 2026-01-10 18:00:00 +0000
+categories: results
+---
+# Results, PMCR Facebook Group
+
+[Qualifying positions](https://www.facebook.com/groups/585097998307070/permalink/3418186154998226/)
+
+[Formula 1 A final](https://www.facebook.com/groups/585097998307070/permalink/3418188151664693/)  
+[Tamiya TT01E Trucks A final](https://www.facebook.com/groups/585097998307070/permalink/3418189654997876/)
+
+{% include 2026-01-10-results-content.markdown %}
+
+{% include 2026-01-10-results-heats.markdown %}
+
+{% include 2026-01-10-results-finals.markdown %}
