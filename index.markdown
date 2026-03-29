@@ -51,7 +51,7 @@ Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 |7th February 2026|[Results]({% post_url 2026-02-07-results %})|
 |21st February 2026|[Results]({% post_url 2026-02-21-results %})|
 |7th March 2026|[Results]({% post_url 2026-03-07-results %})|
-|21st March 2026||
+|21st March 2026|[Results]({% post_url 2026-03-21-results %})|
 |18th April 2026||
 |16th May 2026||
 |13th June 2026||
