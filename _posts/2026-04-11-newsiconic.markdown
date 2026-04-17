@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Iconic Cup Championship 2026 Results"
-date:   2025-04-11 18:00:00 +0000
+date:   2026-04-11 18:00:00 +0000
 categories: news
 ---
 Peterborough Model Car Racing Club (PMCR) drivers attended [Iconic Cup Championship 2026]({% post_url 2025-10-30-newsiconic %}).
