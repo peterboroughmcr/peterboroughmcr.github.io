@@ -17,3 +17,11 @@ Peterborough Model Car Racing Club (PMCR) drivers attended [Iconic Cup Champions
 [PMCR Facebook Group Post](https://www.facebook.com/groups/585097998307070/permalink/3515855971897910/) \| 
 [PMCR Facebook Group Post](https://www.facebook.com/groups/585097998307070/permalink/3516198138530360/) \| 
 [PMCR Facebook Group Post](https://www.facebook.com/groups/585097998307070/permalink/3515696771913830/)
+
+# 2nd/3rd May 2026, Iconic Cup 2026: R2 Carlisle
+
+[RC-Results](https://www.rc-results.com/Viewer/Main/MeetingSummary?meetingId=19757)
+
+# 30th/31st May 2026, Iconic Cup 2026: R3 Halifax
+
+[RC-Results](https://www.rc-results.com/Viewer/Main/MeetingSummary?meetingId=20072)
