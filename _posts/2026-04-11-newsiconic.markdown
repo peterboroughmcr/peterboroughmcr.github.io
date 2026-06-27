@@ -38,7 +38,7 @@ Peterborough Model Car Racing Club (PMCR) drivers attended [Iconic Cup Champions
 
 # 20th/21st June 2026, Iconic Cup 2026: R4 Cotswold
 
-[RC-Results](https://www.rc-results.com/Viewer/Main/MeetingSummary?meetingId=20072)
+[RC-Results](https://www.rc-results.com/Viewer/Main/MeetingSummary?meetingId=20302)
 
 ## Facebook Group Posts
 
