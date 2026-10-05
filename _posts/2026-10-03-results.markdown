@@ -1,0 +1,19 @@
+---
+layout: default
+title: "Race Results: 3rd October 2026"
+date: 2026-10-03 18:00:00 +0000
+categories: results
+---
+# Results, PMCR Facebook Group
+
+[Qualifying positions](https://www.facebook.com/groups/585097998307070/permalink/3706153966201442/)
+
+[Formula 1 A final](https://www.facebook.com/groups/585097998307070/permalink/3706155742867931/)  
+[Formula 1 B final](https://www.facebook.com/groups/585097998307070/permalink/3706156259534546/)  
+[Tamiya TT01E Trucks A final](https://www.facebook.com/groups/585097998307070/permalink/3706154696201369/)
+
+{% include 2026-10-03-results-content.markdown %}
+
+{% include 2026-10-03-results-heats.markdown %}
+
+{% include 2026-10-03-results-finals.markdown %}
