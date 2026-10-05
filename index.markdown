@@ -28,6 +28,8 @@ A selection of drinks and snacks are available to purchase. Various shops are lo
 {%- endfor -%}
 </p>
 
+[News Archive]({% link newsarchive.markdown %})
+
 # Where we race
 
 Millfield Community Association, 487 Lincoln Rd, Peterborough PE1 2PE  
