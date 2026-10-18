@@ -83,18 +83,12 @@ Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 
 |Date|Links|
 |:---|:---|
-|12th January 2026|[Millfield Community Association Meeting]({% post_url 2025-12-13-newsagm %})|
-|11th/12th April 2026|[Iconic Cup 2026: R1 West London]({% post_url 2025-12-07-newsbrca %})|
-|25th/26th April 2026|[BRCA 2026 10EC 2 Wheel Drive National Championship: Cotswolds]({% post_url 2025-12-07-newsbrca %})|
-|2nd/3rd May 2026|[Iconic Cup 2026: R2 Carlisle]({% post_url 2025-10-30-newsiconic %})|
-|23rd/24th May 2026|[BRCA 2026 10EC 2 Wheel Drive National Championship: Stafford]({% post_url 2025-12-07-newsbrca %})|
-|30th/31st May 2026|[Iconic Cup 2026: R3 Halifax]({% post_url 2025-10-30-newsiconic %})|
-|27th/28th June 2026|[BRCA 2026 10EC 2 Wheel Drive National Championship: Halifax]({% post_url 2025-12-07-newsbrca %})|
-|20th/21st June 2026|[Iconic Cup 2026: R4 Cotswold]({% post_url 2025-10-30-newsiconic %})|
-|1st/2nd August 2026|[BRCA 2026 10EC 2 Wheel Drive National Championship: West London]({% post_url 2025-12-07-newsbrca %})|
-|15th/16th August 2026|[Iconic Cup 2026: R5 Colchester]({% post_url 2025-10-30-newsiconic %})|
-|5th/6th September 2026|[Iconic Cup 2026: R6 Broxtowe]({% post_url 2025-10-30-newsiconic %})|
-|6th September 2026|[BRCA 2026 10EC 2 Wheel Drive National Championship: Adur]({% post_url 2025-12-07-newsbrca %})|
+|10th/11th April 2027|Iconic Cup 2027: R1 West London|
+|8th/9th May 2027|Iconic Cup 2027: R2 Carlisle|
+|5th/6th June 2027|Iconic Cup 2027: R3 Cotswold|
+|3rd/4th July 2027|Iconic Cup 2027: R4 Halifax|
+|7th/8th August 2027|Iconic Cup 2027: R5 Colchester|
+|4th/5th September 2027|Iconic Cup 2027: R6 Broxtowe|
 
 # Links
 
