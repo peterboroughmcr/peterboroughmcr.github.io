@@ -60,7 +60,7 @@ Typical race meeting format: 3 x 5 minute heats, with 2 x 7 minute finals
 |SUMMER BREAK||
 |19th September 2026|Race cancelled|
 |3rd October 2026|[Results]({% post_url 2026-10-03-results %})|
-|17th October 2026||
+|17th October 2026|[Results]({% post_url 2026-10-17-results.markdown %})|
 |31st October 2026||
 |28th November 2026||
 |12th December 2026||
